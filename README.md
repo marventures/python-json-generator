@@ -33,6 +33,9 @@ This is a Python JSON Generator created using Python File Handling, Python Excep
 3. Run the program — python main.py
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/108392678/236623114-c1ef48b6-d17a-4f3d-9229-14e64a3451bd.png)
+![image](https://user-images.githubusercontent.com/108392678/236623129-5a260119-baa7-4828-a93c-8874a6370dcb.png)
+
 
 ### Links
 
