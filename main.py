@@ -24,6 +24,7 @@ def main():
         employee_dict = get_employee_details()
         employee_list.append(employee_dict)
 
+        print('\n')
         choice = input(
             "Do you want to enter details for another employee? (Y/N): ")
         if choice.lower() == 'n':

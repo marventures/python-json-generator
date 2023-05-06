@@ -1,0 +1,17 @@
+[
+    {
+        "first_name": "Mark",
+        "age": 26,
+        "title": "Full Stack Developer"
+    },
+    {
+        "first_name": "James",
+        "age": 35,
+        "title": "Mobile Developer"
+    },
+    {
+        "first_name": "Michael",
+        "age": 25,
+        "title": "Accountant"
+    }
+]
