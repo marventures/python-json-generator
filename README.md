@@ -108,5 +108,5 @@ if __name__ == '__main__':
 ## Author
 
 - Website - [Marvin Morales Pacis](https://marvin-morales-pacis.vercel.app/)
-- LinkedIn - [@marvedventures](https://www.linkedin.com/in/marvedventures/)
-- Twitter - [@marvedventures](https://www.twitter.com/marvedventures)
+- LinkedIn - [@marventures](https://www.linkedin.com/in/marventures/)
+- Twitter - [@marventures11](https://www.twitter.com/marventures11)
